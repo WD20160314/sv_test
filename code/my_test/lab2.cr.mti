@@ -1,0 +1,39 @@
+H:/IC_verification/code/my_test/mcdt.v {1 {vlog -work work -vopt -stats=none H:/IC_verification/code/my_test/mcdt.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module mcdt
+
+Top level modules:
+	mcdt
+
+} {} {}} H:/IC_verification/code/my_test/mcdt_pkg.sv {1 {vlog -work work -vopt -sv -stats=none H:/IC_verification/code/my_test/mcdt_pkg.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling package mcdt_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} H:/IC_verification/code/my_test/arbiter.v {1 {vlog -work work -vopt -stats=none H:/IC_verification/code/my_test/arbiter.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module arbiter
+
+Top level modules:
+	arbiter
+
+} {} {}} H:/IC_verification/code/my_test/tb.sv {1 {vlog -work work -vopt -sv -stats=none H:/IC_verification/code/my_test/tb.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling interface chnl_intf
+-- Compiling interface mcdt_intf
+-- Compiling module tb
+-- Importing package mcdt_pkg
+
+Top level modules:
+	tb
+
+} {} {}} H:/IC_verification/code/my_test/slave_fifo.v {1 {vlog -work work -vopt -stats=none H:/IC_verification/code/my_test/slave_fifo.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module slave_fifo
+
+Top level modules:
+	slave_fifo
+
+} {} {}}

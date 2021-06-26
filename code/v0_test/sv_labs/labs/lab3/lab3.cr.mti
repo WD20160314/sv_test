@@ -1,0 +1,15 @@
+H:/IC_verification/code/v0_test/sv_labs/labs/lab3/tb.sv {1 {vlog -work work -vopt -sv -stats=none H:/IC_verification/code/v0_test/sv_labs/labs/lab3/tb.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} H:/IC_verification/code/v0_test/sv_labs/labs/lab3/led_learn.v {1 {vlog -work work -vopt -stats=none H:/IC_verification/code/v0_test/sv_labs/labs/lab3/led_learn.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module led_learn
+
+Top level modules:
+	led_learn
+
+} {} {}}

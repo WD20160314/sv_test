@@ -1,0 +1,36 @@
+H:/IC_verification/code/v0_test/sv_labs/labs/lab1/t1.sv {2 {vlog -work work -vopt -sv -stats=none {H:\IC_verification\code\v0_test\sv_labs\labs\lab1\t1.sv}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+** Warning: H:\IC_verification\code\v0_test\sv_labs\labs\lab1\t1.sv(1): (vlog-2283) Extra semicolon in $unit (global) scope.
+** Warning: H:\IC_verification\code\v0_test\sv_labs\labs\lab1\t1.sv(32): (vlog-2284) Empty $unit scope found.
+-- Compiling package t1_sv_unit
+-- Compiling interface my_io
+-- Compiling module t1
+
+Top level modules:
+	t1
+
+} {} {}} H:/IC_verification/code/v0_test/sv_labs/labs/lab1/my_test.sv {1 {vlog -work work -vopt -sv -stats=none {H:\IC_verification\code\v0_test\sv_labs\labs\lab1\my_test.sv}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling program my_test
+
+Top level modules:
+	my_test
+
+} {} {}} H:/IC_verification/code/v0_test/sv_labs/labs/lab1/my_io.sv {1 {vlog -work work -vopt -sv -stats=none {H:\IC_verification\code\v0_test\sv_labs\labs\lab1\my_io.sv}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling interface my_io
+
+Top level modules:
+	--none--
+
+} {} {}} H:/IC_verification/code/v0_test/sv_labs/rtl/router.v {1 {vlog -work work -vopt -stats=none H:/IC_verification/code/v0_test/sv_labs/rtl/router.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module router
+-- Compiling module rtslice
+-- Compiling module rtslicef
+
+Top level modules:
+	router
+	rtslicef
+
+} {} {}}
